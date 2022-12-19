@@ -29,6 +29,10 @@ body {
     .fs-2 {
         margin: 50px;
     }
+    h3 {
+        margin: 50px;
+        justify-content: center;
+    }
  }
 
 /*provincias*/
@@ -64,7 +68,7 @@ body {
     display: flex;
     width:650px;
     height: 650px;
-    margin-bottom: 50px;
+    margin: 50px;
     transition: all 1s;
     justify-content: flex-end;
     
@@ -76,4 +80,9 @@ body {
     }
  }
 
+ .card{
+    
+    background-color: red;
+    border: 10px solid red;
+ }
 
